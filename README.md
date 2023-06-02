@@ -68,17 +68,39 @@ node
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+install node on your local PC
+
+### Setup
+
+Clone this repository to your desired folder:
+
+clone this repository
+
+### Install
+
+Install this project with:
 
 
-To get a local copy up and running
+Node
 
-Clone this repository to your desired folder
+### Usage
 
-Install this project with: Node.js
+open index.html file from cloned repository
 
-You can deploy this project using: git
 
-<!-- AUTHORS -->
+### Deployment
+
+You can deploy this project using:
+
+
+github or your local browser
+
 
 ## 👥 Authors <a name="authors"></a>
 
